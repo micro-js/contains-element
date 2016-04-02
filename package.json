@@ -2,7 +2,7 @@
   "name": "@f/contains-element",
   "description": "Check if one element contains another element",
   "repository": "git://github.com/micro-js/contains-element.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
