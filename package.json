@@ -1,0 +1,16 @@
+{
+  "name": "@f/contains-element",
+  "description": "Check if one element contains another element",
+  "repository": "git://github.com/micro-js/contains-element.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "hihat": "^2.6.4",
+    "tape": "^4.2.2"
+  }
+}
